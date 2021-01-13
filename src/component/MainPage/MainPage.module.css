@@ -1,0 +1,15 @@
+.MainPage {
+  background-color: black;
+}
+
+.Content {
+  margin: 0 auto;
+  background-color: white;
+  width: 80%;
+  text-align: center;
+}
+
+.topNav {
+  background-color: transparent;
+  margin-bottom: 36px;
+}

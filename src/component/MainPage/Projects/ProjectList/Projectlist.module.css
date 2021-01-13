@@ -1,0 +1,18 @@
+import React, { Component } from 'react';
+
+class ProjectList extends Component { 
+  state = {
+    currentSection: 'All',
+    projects: ['sorting', ''<++>]<++>
+    sections: {
+    }
+  };
+
+  render() {
+    return (
+      <++>
+    );
+  }
+}
+
+export default ProjectList;

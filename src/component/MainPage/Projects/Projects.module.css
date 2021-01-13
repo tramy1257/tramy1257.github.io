@@ -1,0 +1,5 @@
+.Divider {
+  display: flex;
+  background-color: tan;
+  justify-content: center;
+}
